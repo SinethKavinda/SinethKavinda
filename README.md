@@ -9,8 +9,12 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=440&lines=Artificial+Intelligence;Full-Stack+Development;Problem+Solver;ICT+Tutor;Innovation+Enthusiast" alt="Typing SVG" /></a>
   </p>
   
-  <a href="https://github.com/SinethKavinda"><img src="https://img.shields.io/github/followers/SinethKavinda?label=Followers&style=social" alt="GitHub Badge"></a>
-  <img src="https://komarev.com/ghpvc/?username=SinethKavinda&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views"/>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Age-21-orange" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-orange" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-orange" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-orange" />
+  </p>
   
 </div>
 
@@ -46,35 +50,13 @@
 ---
 
 <div>
-  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="AI Developer" width="200" />
-  
-  ## 🧠 Professional Journey
-  
-  I'm a full-stack developer and AI specialist focused on creating intelligent software solutions. With expertise in Java, JavaScript, Spring Boot, React, and emerging AI technologies, I bring a unique blend of software engineering fundamentals and cutting-edge AI knowledge.
-  
-  #### 🎯 Specialized In:
-  - Building intelligent web applications with modern frameworks
-  - Integrating AI capabilities into software solutions
-  - Developing responsive, scalable backend systems
-  - Creating intuitive user interfaces with attention to detail
-  
-  #### 🔍 Currently Exploring:
-  - Deep learning architectures
-  - Natural language processing
-  - Cloud-native development
-  - Progressive Web Apps (PWAs)
-</div>
-
----
-
-<div>
   <h2>🎓 Education & Qualifications</h2>
   
   <div align="center">
     <table>
       <tr>
         <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="60px" /></td>
-        <td><strong>University of Moratuwa</strong><br>Bachelor's in AI UG<br>1st year student</td>
+        <td><strong>Wayamba University Sri Lanka</strong><br>Bsc. Applied Sciences<br>1st year student</td>
       </tr>
       <tr>
         <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60px" /></td>
@@ -82,50 +64,14 @@
       </tr>
       <tr>
         <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="60px" /></td>
-        <td><strong>Maliyadeva College, Kurunegala</strong><br>Secondary Education<br>Strong foundation in mathematics and sciences</td>
+        <td><strong>Dudley Senanayake Central College, Tholangamuwa</strong><br>Secondary Education<br>Strong foundation in mathematics and sciences</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="60px" /></td>
+        <td><strong>Urapola National College, Urapola</strong><br>Secondary Education<br>Strong foundation for A/Ls</td>
       </tr>
     </table>
   </div>
-</div>
-
----
-
-<div>
-  <h2>🚀 Professional Highlights</h2>
-  
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadeepanherath&theme=tokyo-night&hide_border=true" width="95%" alt="activity graph">
-  </div>
-  
-  <details>
-    <summary><b>🔵 Software Development</b></summary>
-    <ul>
-      <li>Built enterprise-grade web applications with Spring Boot and React</li>
-      <li>Implemented secure RESTful APIs with proper authentication</li>
-      <li>Created responsive designs with modern CSS frameworks</li>
-      <li>Applied clean code principles and design patterns</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary><b>🔵 AI & Machine Learning</b></summary>
-    <ul>
-      <li>Developed ML models for predictive analytics</li>
-      <li>Implemented data processing pipelines</li>
-      <li>Explored natural language processing techniques</li>
-      <li>Applied AI algorithms to solve real-world problems</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary><b>🔵 Project Management</b></summary>
-    <ul>
-      <li>Led cross-functional teams in agile environments</li>
-      <li>Managed project timelines and deliverables</li>
-      <li>Facilitated client meetings and requirement gathering</li>
-      <li>Implemented effective version control strategies</li>
-    </ul>
-  </details>
 </div>
 
 ---
@@ -142,22 +88,22 @@
 <div align="center">
   <h2>🌐 Connect With Me</h2>
   
-  <a href="https://www.linkedin.com/in/sadeepa-herath-02ab67310" target="_blank">
+  <a href="https://www.linkedin.com/in/sinethkavinda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/SadeepaNHerath" target="_blank">
+  <a href="https://web.facebook.com/sineth.kavinda.52/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/sadeepa_herath_18/" target="_blank">
+  <a href="https://www.instagram.com/sineth_kavinda/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCrpBXjLBkbOmI-6UPaoU7ag" target="_blank">
+  <a href="https://www.youtube.com/@SinethWeerasingheict1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="mailto:sadeepahearth@gmail.com">
+  <a href="mailto:sinethkavinda12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://medium.com/@sadeepanithushika" target="_blank">
+  <a href="https://medium.com/@sinethkavinda12" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
